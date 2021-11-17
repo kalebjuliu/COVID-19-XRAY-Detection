@@ -57,8 +57,7 @@ adalah fungsi yang digunakan untuk mengoptimasi performa neural network dengan m
 - https://www.kdnuggets.com/2020/12/optimization-algorithms-neural-networks.html
 - https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
 
-
-
+---
 ### ImageDataGenerator
 adalah fungsi yang digunakan untuk melakukan data augmentation. Hal ini dilakukan untuk membantu model menggeneralisasi data lebih baik dan mencegah overfitting
 - rescale = merubah skala gambar rgb (0-255) menjadi (0,1) agar model lebih mudah untuk memproses data
@@ -86,7 +85,7 @@ adalah fungsi yang digunakan untuk mengambil gambar dan mengidentifikasi kelas d
 - https://datascience.stackexchange.com/questions/29719/how-to-set-batch-size-steps-per-epoch-and-validation-steps
 - https://stackoverflow.com/questions/44907377/what-is-epoch-in-keras-models-model-fit
 
-
+---
 ### Useful Learning Resources
 
 - https://youtu.be/aircAruvnKk
